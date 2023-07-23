@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  #gifContainer {
+    display: none;
+  }
+  #gifContainer.show {
+    display: block;
+  }
+  #gifContainer img {
+    display: block;
+    margin: 0 auto;
+  } 
+body {
+    background: url('images/Vector-Mountain-4K.gif') fixed;
+    background-size: cover;
+}
